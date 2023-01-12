@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQFAAUAAAAACAAAgIgAAIiICACAiAAAAAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P1 Striker"
+    },
+    "image2": {
+        "data": "hwQHAAcAAACZmZkJiYiICYmIiAmJiIgJiYiICYmIiAmZmZkJ",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P1 Defender"
+    },
+    "image3": {
+        "data": "hwQFAAUAAACIiAgAiIgIAIiICACIiAgAiIgIAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P1 Assassin"
+    },
+    "image4": {
+        "data": "hwQFAAUAAAAABAAAQEQAAEREBABARAAAAAQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P2 Striker"
+    },
+    "image5": {
+        "data": "hwQFAAUAAABERAQAREQEAEREBABERAQAREQEAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P2 Assassin"
+    },
+    "image6": {
+        "data": "hwQHAAcAAAB3d3cHR0REB0dERAdHREQHR0REB0dERAd3d3cH",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "P2 Defender"
+    },
+    "image8": {
+        "data": "hwQgACAAAAARERERERERERERERERERERERERERERERERERERERERERFEd3d3d3d3d/93d3d3dxERRHd3d3d3d3f/d3d3d3cREXf/d3d3d3d3d3d3d/93ERF3/3d3d3d3d3d3d3f/dxERd3d3d3f/d3d3d3d3d3cREXd3d3d3/3d3d3d3d3d3ERF3d3d3d3d3d3f/d3d3dxERd3d3d3d3d3d3/3d3d3cREXd3/3d3d3d3d3d3d3f/ERF3d/93d3d3d3d3d3d3/xERd3d3d3d3/3d3d3d3d3cREXd3d3d3d/93d3d3d3d3ERF3d3d3d3d3d3d3/3d3dxERd3d3d3d3d3d3d/93d3cREXd3d/93d3d3d3d3d3d3ERF3d3f/d3d3d3d3d3d3dxERd3d3d3d3d/93d3d3d3cREXd3d3d3d3f/d3d3d3d3ERH/d3d3d3d3d3d3d/93dxER/3d3d3d3d3d3d3f/d3cREXd3d3f/d3d3d3d3d3d3ERF3d3d3/3d3d3d3d3d3dxERd3d3d3d3d3f/d3d3d3cREXd3d3d3d3d3/3d3d3d3ERF3/3d3d3d3d3d3d3f/dxERd/93d3d3d3d3d3d3/3cREXd3d3d3/3d3d3d3d3eZERF3d3d3d/93d3d3d3d3mREREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Forest Icon"
+    },
+    "image7": {
+        "data": "hwQgACAAAAARERERERERERERERERERERERERERERERERERERERERERF3d3d3d3d3d3d3d3d3dxERd3d3d3d3d3d3d3d3d3cREXdEd/93d3d3d/93d3d3ERF3RHf/d3d3d3f/d3d3dxERd3f/d3d3d3d3/3d3d3cREXd3/3d3d3d3d/93d3d3ERF3/3d3d3d3d3f/d3d3dxERd/93d3d3d3d3/3d3d3cREXd3d3d3d/93d3f///93ERF3d3d3d3f/d3d3////dxERd3d3d3d3d3d3d3d3d3cREXd3d3d3d3d3d3d3d3d3ERF3d3d3/3d3d/93d3d3dxERd3d3d/93d3f/d3d3d3cREXd3d3d3d3d3d3d3d3d3ERF3d3d3d3d3d3d3d3d3dxERd3d3d3d3/3d3d3d3d3cREXd3d3d3d/93d3d3d3d3ERF3////d3d3d3d3d3d3dxERd////3d3d3d3d3d3d3cREXd3d3f/d3d3d3d3d/93ERF3d3d3/3d3d3d3d3f/dxERd3d3d/93d3d3d3f/d3cREXd3d3f/d3d3d3d3/3d3ERF3d3d3/3d3d3d3/3eZdxERd3d3d/93d3d3d/93mXcREXd3d3d3d3d3d3d3d3d3ERF3d3d3d3d3d3d3d3d3dxEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jungle map"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
